@@ -1,0 +1,15 @@
+﻿  FolderInGame.cpp
+  FolderInMedia.cpp
+  FolderName.cpp
+e:\documents\githubrip\mylauncher\launcher\launcher\foldername.cpp(93): warning C4267: '=': 'size_t' から 'int' に変換しました。データが失われているかもしれません。
+e:\documents\githubrip\mylauncher\launcher\launcher\foldername.cpp(80): warning C4996: '_splitpath': This function or variable may be unsafe. Consider using _splitpath_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\stdlib.h(1111): note: '_splitpath' の宣言を確認してください
+  GameList.cpp
+  input.cpp
+  main.cpp
+  コード生成しています。
+  783 of 783 functions (100.0%) were compiled.
+    554 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  コード生成が終了しました。
+  Launcher.vcxproj -> E:\Documents\GitHubRip\MyLauncher\Launcher\x64\Release\Launcher.exe

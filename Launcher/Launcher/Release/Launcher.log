@@ -1,0 +1,12 @@
+﻿  FolderInGame.cpp
+  FolderInMedia.cpp
+  FolderName.cpp
+e:\documents\visual studio 2017\projects\launcher\launcher\foldername.cpp(57): warning C4996: '_splitpath': This function or variable may be unsafe. Consider using _splitpath_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\stdlib.h(1111): note: '_splitpath' の宣言を確認してください
+  GameList.cpp
+  input.cpp
+  main.cpp
+  コード生成しています。
+  All 246 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  コード生成が終了しました。
+  Launcher.vcxproj -> E:\Documents\Visual Studio 2017\Projects\Launcher\Release\Launcher.exe
